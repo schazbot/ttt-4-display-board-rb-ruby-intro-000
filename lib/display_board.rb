@@ -1,8 +1,5 @@
-# Define display_board that accepts a board and prints
-
-
 puts 'display board'
-#board output
+
 puts " #{board[0]} | #{board[1]} | #{board[2]} "
 puts "-----------"
 puts " #{board[3]} | #{board[4]} | #{board[5]} "
